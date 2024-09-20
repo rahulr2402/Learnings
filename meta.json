@@ -15,8 +15,14 @@
      {
         "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
         "title": "CRUD operation in Java Script",
-        "pagelink": "https://rahulr2402.github.io/Form-JS/",
-        "repolink": "https://github.com/rahulr2402/Form-JS"
+        "pagelink": "https://rahulr2402.github.io/JS-form/",
+        "repolink": "https://github.com/rahulr2402/JS-form"
+      },
+     {
+        "img": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
+        "title": "CRUD operation in Java Script",
+        "pagelink": "https://rahulr2402.github.io/JS-async-fetch/",
+        "repolink": https://github.com/rahulr2402/JS-async-fetch"
       }
   ]
 }
